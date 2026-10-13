@@ -1,6 +1,6 @@
 # Main reciprocity experiments
 
-Only the main experiment runners are included. No robustness ablations, trace analyses, validation tools, plots, or earlier unrelated experiments are bundled.
+Only the main experiment runners are included. 
 
 | Entry point | Experiment |
 |---|---|
