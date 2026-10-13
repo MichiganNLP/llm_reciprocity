@@ -1,0 +1,10 @@
+numpy
+openai
+python-dotenv
+torch
+transformers
+accelerate
+bitsandbytes
+huggingface-hub
+sentencepiece
+protobuf
